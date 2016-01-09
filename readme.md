@@ -2,6 +2,8 @@ Spirograph draws animated Hypotrochoid and Epitrochoid curves.
 
 It was written during a long stint on jury service when I had a lot of time between sessions in court.
 
+![image](https://cloud.githubusercontent.com/assets/526349/12218912/1585f492-b726-11e5-8040-01394b356c98.png)
+
 You can interact with the drawing by clicking on the curve to pause it. Things to try:
 - Change the size of the moving circle
 - Change the size of the fixed circle
