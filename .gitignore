@@ -1,0 +1,11 @@
+*.user
+*.suo
+UpgradeLog*
+*.resharperoptions
+.vs
+Backup*
+_Resharper*
+_Upgrade*
+bin
+obj
+Thumbs.db
